@@ -63,7 +63,7 @@ npm install
 # Build the extension
 npm run build
 
-# Then load the dist/ folder in Chrome as an unpacked extension.
+# Then load the .output/ folder in Chrome as an unpacked extension.
 ```
 
 ## Built With
