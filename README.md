@@ -1,5 +1,8 @@
 # YouTube Spotlight Extension
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/1mehdifaraji/youtube-spotlight-extension/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/1mehdifaraji/youtube-spotlight-extension?style=social)](https://github.com/1mehdifaraji/youtube-spotlight-extension/stargazers)
+
 <p align="center">
   <img src="https://github.com/1mehdifaraji/youtube-spotlight-extension/blob/main/assets/demo.gif" alt="Demo gif" width="300"/>
   <br/>
