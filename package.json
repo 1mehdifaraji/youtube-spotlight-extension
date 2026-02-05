@@ -1,6 +1,6 @@
 {
   "name": "youtube-spotlight-extension",
-  "description": "manifest.json description",
+  "description": "A lightweight Chrome extension for YouTube: Spotlight text (dim the rest), highlight channels, and remove ads with one click.",
   "author": {
     "name": "Mehdi Faraji",
     "email": "mahdifarajideveloper@gmail.com",
